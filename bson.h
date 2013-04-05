@@ -19,7 +19,7 @@
 
 #define OID_SIZE 12
 
-/* BSON type constants from http://bsonspec.org/#/specification */
+/* BSON type constants from http://bsonspec.org/#/specification */ 
 #define BSON_DOUBLE    0x01
 #define BSON_STRING    0x02
 #define BSON_OBJECT    0x03
